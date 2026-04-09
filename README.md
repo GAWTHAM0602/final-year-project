@@ -1,4 +1,4 @@
-# 🛡️ Enhanced Deep Learning Techniques to Detect Trojan Horse Attack in Cybersecurity
+# 🛡️ Enhanced Deep Learning Techniques for Virus Malware Detection in Cybersecurity
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GAWTHAM0602/final-year-project/blob/main/notebooks/Trojan_Horse_Detection.ipynb)
 
@@ -15,7 +15,7 @@ Deep learning has emerged as a powerful tool for enhancing malware detection and
 
 Click the badge below to open the complete notebook directly in Google Colab (GPU recommended):
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/trojan-horse-detection/blob/main/notebooks/Trojan_Horse_Detection.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GAWTHAM0602/final-year-project/blob/main/notebooks/Trojan_Horse_Detection.ipynb)
 
 > **⚠️ Before running:** Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username after pushing this repository.
 
