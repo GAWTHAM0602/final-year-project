@@ -1,12 +1,8 @@
 # Project Report Summary
 
 ## Title
-Enhanced Deep Learning Techniques to Detect Trojan Horse Attack in Cybersecurity
+Enhanced Deep Learning Techniques for Virus Malware Detection in Cybersecurity
 
-## Institution
-Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science & Technology  
-Department of Computer Science & Engineering, School of Computing  
-Chennai 600 062, Tamil Nadu, India — May 2024
 
 ## Problem Statement
 IoT devices face escalating threats from Trojan horse malware. Existing signature-based and classical ML methods are inadequate against zero-day variants and obfuscated binaries.
