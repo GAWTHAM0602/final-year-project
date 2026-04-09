@@ -1,25 +1,8 @@
 # 🛡️ Enhanced Deep Learning Techniques to Detect Trojan Horse Attack in Cybersecurity
 
-> **Major Project Report — B.Tech Computer Science & Engineering**  
-> Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science & Technology, Chennai — May 2024
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GAWTHAM0602/final-year-project/blob/main/notebooks/Trojan_Horse_Detection.ipynb)
 
 ---
-
-## 👥 Team
-
-| Name | Roll No. | Reg. No. |
-|------|----------|----------|
-| Sagin Sandoz Fernando E | 20UECS0825 | 16803 |
-| K Ajay Kumar Reddy | 20UECS0493 | 15072 |
-| Gollapalli Jayanth | 20UECS0339 | 16923 |
-
-**Guide:** Dr. S. Amutha, ME., Ph.D., Associate Professor  
-**Department:** Computer Science & Engineering, School of Computing
-
----
-
 ## 📋 Abstract
 
 Deep learning has emerged as a powerful tool for enhancing malware detection and mitigation efforts, offering automated feature extraction capabilities and the potential to detect zero-day malware. This project leverages **Convolutional Neural Networks (CNNs)** and a **Random Forest classifier** to detect and classify Trojan Horse malware from grayscale binary image representations of executable files.
