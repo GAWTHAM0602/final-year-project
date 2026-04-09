@@ -3,7 +3,7 @@
 > **Major Project Report — B.Tech Computer Science & Engineering**  
 > Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science & Technology, Chennai — May 2024
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/trojan-horse-detection/blob/main/notebooks/Trojan_Horse_Detection.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GAWTHAM0602/final-year-project/blob/main/notebooks/Trojan_Horse_Detection.ipynb)
 
 ---
 
